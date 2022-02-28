@@ -1,2 +1,2 @@
 # Lombardi
-Discord bot
+Discord bot made in 
